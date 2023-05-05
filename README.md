@@ -1,5 +1,8 @@
 # Kuroscillators
-MAX MSP objects for audio and rhythmic synthesis using coupled oscillator networks 
+MAX MSP objects for audio and rhythmic synthesis using coupled oscillator networks. 
+
+NB: Original package was here: https://bitbucket.org/no_lem/kuroscillators/src/master/
+
 
 
 ## What are coupled oscillators? 
